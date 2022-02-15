@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4d4991b-76af-4e93-9f90-a3b0addf1bed": {
+      "ProjectGuid": "b4d4991b-76af-4e93-9f90-a3b0addf1bed",
+      "DisplayName": "AppDevWeb",
+      "ColorIndex": 0
+    },
+    "fce69c44-4ddd-417b-b90a-42e7def0532a": {
+      "ProjectGuid": "fce69c44-4ddd-417b-b90a-42e7def0532a",
+      "DisplayName": "AppDevWeb.Modelo",
+      "ColorIndex": 1
+    },
+    "81f4e2ba-2ba1-4be7-b4f2-f92046476102": {
+      "ProjectGuid": "81f4e2ba-2ba1-4be7-b4f2-f92046476102",
+      "DisplayName": "AppDevWeb.Controller",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

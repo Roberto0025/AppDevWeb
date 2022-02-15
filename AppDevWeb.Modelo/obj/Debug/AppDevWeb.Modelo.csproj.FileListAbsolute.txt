@@ -1,0 +1,6 @@
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Modelo\bin\Debug\AppDevWeb.Modelo.dll
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Modelo\bin\Debug\AppDevWeb.Modelo.pdb
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Modelo\obj\Debug\AppDevWeb.Modelo.csproj.CoreCompileInputs.cache
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Modelo\obj\Debug\AppDevWeb.Modelo.dll
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Modelo\obj\Debug\AppDevWeb.Modelo.pdb
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Modelo\obj\Debug\AppDevWeb.Modelo.csproj.AssemblyReference.cache

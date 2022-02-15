@@ -1,0 +1,9 @@
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Controller\bin\Debug\AppDevWeb.Controller.dll
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Controller\bin\Debug\AppDevWeb.Controller.pdb
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Controller\bin\Debug\AppDevWeb.Modelo.dll
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Controller\bin\Debug\AppDevWeb.Modelo.pdb
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Controller\obj\Debug\AppDevWeb.Controller.csproj.AssemblyReference.cache
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Controller\obj\Debug\AppDevWeb.Controller.csproj.CoreCompileInputs.cache
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Controller\obj\Debug\AppDevWeb.Controller.csproj.CopyComplete
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Controller\obj\Debug\AppDevWeb.Controller.dll
+D:\Users\RASOUZA4\Downloads\AppDevWeb04112021\AppDevWeb.Controller\obj\Debug\AppDevWeb.Controller.pdb

@@ -1,0 +1,35 @@
+.pull-right {
+	text-align: right;
+}
+
+#ovBTN_Login {
+	margin-top: 10px;	
+}
+
+#container-login {
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 15%;	
+}
+
+#div-ident-empresa{
+	background-color: gray;
+	color: #ffff;
+	padding: 5px;
+	font-size: 12px;
+}
+
+#div_ident_user {
+	background-color: darkgray;
+	padding: 5px;
+	font-size: 12px;
+	text-align: right;
+}
+
+#menu-lateral{
+	background-color: #ccc;
+}
+
+#pagina-filha{
+	background-color: cadetblue;
+}
